@@ -1,0 +1,53 @@
+h1 {
+  font-size: 35px;
+  color: #663300;
+}
+body {
+  text-align: center;
+  background-color: #ffe6cc;
+}
+#can {
+  height: 400px;
+  width: 400px;
+  border: 3px solid brown;
+}
+#can1 {
+  height: 400px;
+  width: 400px;
+  border: 3px solid darkorange;
+}
+#can2 {
+  height: 400px;
+  width: 400px;
+  border: 3px solid brown;
+}
+#can3 {
+  height: 400px;
+  width: 400px;
+  border: 3px solid darkorange;
+}
+#can4 {
+  height: 400px;
+  width: 400px;
+  border: 3px solid darkorange;
+}
+#can5 {
+  height: 400px;
+  width: 400px;
+  border: 3px solid darkorange;
+}
+#can6 {
+  height: 400px;
+  width: 400px;
+  border: 3px solid darkorange;
+}
+#can7 {
+  height: 400px;
+  width: 400px;
+  border: 3px solid darkorange;
+}
+#can8 {
+  height: 400px;
+  width: 400px;
+  border: 3px solid darkorange;
+}
